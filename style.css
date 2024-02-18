@@ -128,7 +128,7 @@ a:hover {
     transform: rotate(45deg) translate(10px, 5px);
 }
 .hamburger-icon.open span:nth-child(2) {
-    opacity: 0;;
+    opacity: 0;
 }
 .hamburger-icon.open span:last-child {
     transform: rotate(-45deg) translate(10px, -5px);
@@ -268,8 +268,6 @@ section {
 
 #about {
     position: relative;
-    margin-left: 10rem;
-    margin-right: 10rem;
 }
 
 .about-containers {
@@ -393,7 +391,7 @@ article .icon {
     height: 70vh;
 }
 
-.conatct-info-upper-container {
+.contact-info-upper-container {
     display: flex;
     justify-content: center;
     border-radius: 2rem;
